@@ -86,6 +86,58 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+ html{
+color:#202322;
+font-size:1rem;
+ }
+body{
+color:#2a423a;
+font-family: 'open Sans' , sans-serif;
+font-size:1rem;
+}
+ul ol{
+background-color: #202322;
+color: #e2e3ed;
+}
+a{
+color :#e2e3ed;
+text-decoration: none;
+}
+h2{
+font-family : 'poppins' , sans-serif;
+}
+h3 h4{
+color: #e2e3ed;
+background-color: #202322;
+font-family: 'poppins' sans-serif;
+}
+p{
+color:#e2e3ed;
+line-height: 18px;
+}
+img{
+
+}
+figure{
+
+}
+address{
+background-color:#202322 ;
+font-size: normal;
+}
+.content-wrapper{
+
+}
+.faq-content{
+  line-height: 24px;
+}
+/* google fonts*/
+
+
+
+
+
+
    /*---------------------------------- Base Header - Footer Styles -----------------------------------------------------*/
   header{
     display: flex;
