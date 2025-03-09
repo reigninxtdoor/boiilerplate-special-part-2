@@ -432,7 +432,15 @@ footer .copyright{
   width:100% ;
 }
 
-
+aside .form{
+  margin-top: 30px;
+}
+input[type=text]{
+  box-sizing: border-box;
+  width: 100%;
+  color: #2a423a;
+  font-style: italic;
+}
 
 
 
@@ -592,4 +600,4 @@ FAQ Page
   h3 {
     page-break-after: avoid;
   }
-}
+} 
