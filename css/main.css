@@ -314,8 +314,10 @@ figure{
   margin:0;
 }
 header figure{
-  width:30%; 
-
+  width:30%; }
+map figure-tablet{
+  padding-bottom:45%;
+}
 
 
 
@@ -323,6 +325,11 @@ header figure{
 @media only screen and (min-width:1200px){
   /* Desktop styles here*/
 }
+map figure-desktop{
+  padding-bottom:37%;
+}
+
+
 .content-wrapper{
   max-width: 960px;}
 
