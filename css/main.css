@@ -493,7 +493,7 @@ FAQ Page
   }
 } 
 /* BAckground Images*/
-background-image .hompage{
+background-image .homepage{
 background:url('../img/unplugged-retreat.jpg');
 background-size: cover;
 background-repeat: no-repeat;
@@ -508,7 +508,7 @@ background-position: center;
 background-color: #333;
 
 }
-background-image .faqpage{
+background-image .faq-page{
   background-color:#2a423a;
   background-size: cover;
   background-repeat: no-repeat;
